@@ -1,0 +1,32 @@
+/* Write your code here. */
+
+.bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.heading {
+  font-family: "Roboto";
+}
+.image {
+  width: 20px;
+  height: 20px;
+  align-self: center;
+  margin-right: 10px;
+}
+
+.message {
+  display: flex;
+  width: 200px;
+  height: 35px;
+  padding: 10px;
+  box-sizing: content-box;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+
+.para {
+  align-self: center;
+}
